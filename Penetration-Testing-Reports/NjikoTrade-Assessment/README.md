@@ -133,5 +133,14 @@ The preliminary assessment identified publicly observable infrastructure and sec
 
 Further testing with appropriate application and hosting access would be required to provide a more comprehensive security assessment.
 
+Debian / Ubuntu / Kali Linux:
+sudo apt install nmap
+
+Red Hat / Fedora / CentOS (Yum / DNF)
+sudo yum install nmap
+
+macOS (using Homebrew)
+brew install nmap
+
 Project Author: CyberLord
 Field: Network Security and Web Application Penetration Testing
